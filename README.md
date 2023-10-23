@@ -11,4 +11,5 @@ This extension does not:
 - Disable the donate button
 
 # Install
-On your Firefox Browser, download the [XPI file from the latest release here, when asked, add / install it](https://github.com/PhuckenStuff/photopea-anti-anti-adblock/releases).
+- [On the Mozilla Store](https://addons.mozilla.org/en-US/firefox/addon/photopea-anti-anti-adblock/)
+- On your Firefox Browser, download the [XPI file from the latest release here, when asked, add / install it](https://github.com/PhuckenStuff/photopea-anti-anti-adblock/releases).
